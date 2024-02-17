@@ -1,6 +1,10 @@
 # Taken from https://github.com/github/gitignore/blob/main/Node.gitignore
 # and added custom ignores
 
+# IDE and Mac stuff
+.idea/
+.DS_Store
+
 # Logs
 logs
 *.log
